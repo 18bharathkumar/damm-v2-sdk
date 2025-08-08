@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/cp_amm.json`.
  */
 export type CpAmm = {
-  address: "cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG";
+  address: "AdijKqwDVeyWCHhHqdp6mAZ9LYZw1tAsCcfQow4gEa89";
   metadata: {
     name: "cpAmm";
     version: "0.1.3";
